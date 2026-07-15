@@ -3,7 +3,7 @@ This script is designed to resolve activation issues with Autodesk products rela
 The procedure is as follows:
 1) Install the required Autodesk products (if not already installed);
 2) Disable the antivirus and add "C:\\" to the exceptions;
-3) Place the product activator and NLM installer in the script folder;
+3) Place the product activator and NLM installer in the [script] (https://github.com/Sam-Lebezky/autodesk_NLM_reinstaller/releases/) folder;
 4) Run the script as administrator. Once completed, the computer will reboot.
 5) Log back in and run the same script as administrator.
 6) Reset the antivirus settings to normal.
